@@ -1,0 +1,52 @@
+=== Arrays (15 problems) ===
+1. Two Sum | Easy | #1
+2. Best Time to Buy/Sell Stock | Easy | #121
+3. Maximum Subarray | Medium | #53
+4. Move Zeroes | Easy | #283
+5. Rotate Array | Medium | #189
+6. Product of Array Except Self | Medium | #238
+7. Find Minimum in Rotated Sorted Array | Medium | #153
+8. Contains Duplicate II | Easy | #219
+9. Merge Sorted Array | Easy | #88
+10. Intersection of Two Arrays II | Medium | #350
+11. Majority Element | Easy | #169
+12. Remove Duplicates from Sorted Array | Easy | #26
+13. Plus One | Easy | #66
+14. 3Sum | Medium | #15
+15. Trapping Rain Water | Medium | #42
+
+=== Strings (10 problems) ===
+16. Valid Palindrome | Easy | #125
+17. Reverse String | Easy | #344
+18. Longest Substring Without Repeating Characters | Medium | #3
+19. Implement strStr() | Easy | #28
+20. Group Anagrams | Medium | #49
+21. Valid Anagram | Easy | #242
+22. Count and Say | Easy | #38
+23. Longest Palindromic Substring | Medium | #5
+24. Minimum Window Substring | Medium | #76
+25. String to Integer (atoi) | Medium | #8
+
+=== Hashing / Maps (8 problems) ===
+26. Contains Duplicate | Easy | #217
+27. Subarray Sum Equals K | Medium | #560
+28. Top K Frequent Elements | Medium | #347
+29. Happy Number | Easy | #202
+30. Intersection of Two Arrays II | Medium | #350
+31. Two Sum II (Input Array Sorted) | Easy | #167
+32. Group Shifted Strings | Medium | #249
+33. Valid Sudoku | Medium | #36
+
+=== Searching / Sorting (7 problems) ===
+34. Binary Search | Easy | #704
+35. Search Insert Position | Easy | #35
+36. Merge Intervals | Medium | #56
+37. Kth Largest Element in Array | Medium | #215
+38. Sort Colors | Medium | #75
+39. Find Peak Element | Medium | #162
+40. Missing Number | Easy | #268
+
+=== Recursion / Backtracking (3 problems) ===
+41. Fibonacci Number | Easy | #509
+42. Climbing Stairs | Easy | #70
+43. Generate Parentheses | Medium | #22
