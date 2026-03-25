@@ -1,12 +1,20 @@
 === Arrays (15 problems) ===
 1. Two Sum | Easy | #1
+   - Done
 2. Best Time to Buy/Sell Stock | Easy | #121
+   - Done
 3. Maximum Subarray | Medium | #53
+   - Done
 4. Move Zeroes | Easy | #283
+   - Done
 5. Rotate Array | Medium | #189
+   - Done
 6. Product of Array Except Self | Medium | #238
+    - Done
 7. Find Minimum in Rotated Sorted Array | Medium | #153
+    - Done
 8. Contains Duplicate II | Easy | #219
+    - Done
 9. Merge Sorted Array | Easy | #88
 10. Intersection of Two Arrays II | Medium | #350
 11. Majority Element | Easy | #169
