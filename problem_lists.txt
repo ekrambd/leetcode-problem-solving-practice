@@ -17,7 +17,9 @@
 9. Merge Sorted Array | Easy | #88
    - Done
 10. Intersection of Two Arrays II | Medium | #350
+    - Done
 11. Majority Element | Easy | #169
+   - Done
 12. Remove Duplicates from Sorted Array | Easy | #26
 13. Plus One | Easy | #66
 14. 3Sum | Medium | #15
