@@ -10,7 +10,6 @@
 5. Rotate Array | Medium | #189
    - Done
 6. Product of Array Except Self | Medium | #238
-    - Done
 7. Find Minimum in Rotated Sorted Array | Medium | #153
     - Done
 8. Contains Duplicate II | Easy | #219
