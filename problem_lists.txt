@@ -21,6 +21,7 @@
 11. Majority Element | Easy | #169
    - Done
 12. Remove Duplicates from Sorted Array | Easy | #26
+    - Done
 13. Plus One | Easy | #66
 14. 3Sum | Medium | #15
 15. Trapping Rain Water | Medium | #42
