@@ -49,6 +49,7 @@
 34. Binary Search | Easy | #704
 35. Search Insert Position | Easy | #35
 36. Merge Intervals | Medium | #56
+    - Done
 37. Kth Largest Element in Array | Medium | #215
 38. Sort Colors | Medium | #75
 39. Find Peak Element | Medium | #162
